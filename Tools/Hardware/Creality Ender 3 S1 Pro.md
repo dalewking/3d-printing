@@ -1,0 +1,1 @@
+In November 2025 I purchased a Creality Ender 3 S1 Pro from Facebook Marketplace for $120. Though pre-owned it was never actually used.
