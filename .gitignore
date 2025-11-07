@@ -1,0 +1,14 @@
+# Obsidian-specific files and folders to ignore
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/.cache/
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache
+.obsidian/plugins/*/temp
+.obsidian/plugins/*/settings.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
