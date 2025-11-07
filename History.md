@@ -1,4 +1,4 @@
 - 2025-11-04
-	- Bought [[Creality Ender 3 S1 Pro]] from Facebook Marketplace
-	- Bought [[Inland Basic PLA]] filament in black and white from Micro Center
-	- Bought [[Digital Calipers]] from Micro Center
+	- Bought [Tools/Hardware/Creality Ender 3 S1 Pro] from Facebook Marketplace
+	- Bought [Tools/Supplies/Inland Basic PLA] filament in black and white from Micro Center
+	- Bought [Tools/Digital Calipers] from Micro Center
