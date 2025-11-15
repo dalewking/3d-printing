@@ -9,6 +9,9 @@
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/styles.css
 
+# IntelliJ
+/.idea
+
 # Operating system specific files
 .DS_Store
 Thumbs.db
