@@ -1,0 +1,2 @@
+- [MakeWorld Underware 2.0 page (with BJD's holder generator)](https://makerworld.com/en/models/783010-underware-2-0-infinite-cable-management#profileId-1504508)
+- [Pedro's Underware Channel customizer](https://makerworld.com/en/models/1329404-underware-for-opengrid-customizer-beta#profileId-1367368)
