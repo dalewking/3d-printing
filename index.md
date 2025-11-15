@@ -1,3 +1,6 @@
+---
+title: Home
+---
 Log of my 3d printing and modeling journey
 # Tools
 ### Software
