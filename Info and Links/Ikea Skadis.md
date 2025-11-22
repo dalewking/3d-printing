@@ -1,2 +1,4 @@
 - [T-Nuts](https://www.printables.com/model/228663-skadis-t-nuts-mounting-system-for-ikea-skadis-pegb)
-- 
+- [A better designed T-Nut](https://www.printables.com/model/637691-skadis-t-nut-openscad-m2-m25-m3-heat-insert)
+	- Has more options for oversized threads to make the hold better
+	- [skadis_t-nut-m3_20](https://www.printables.com/model/637691-skadis-t-nut-openscad-m2-m25-m3-heat-insert/files#preview.file.uLxMP) works well for me
